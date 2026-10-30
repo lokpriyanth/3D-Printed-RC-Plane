@@ -11,3 +11,9 @@ So, if you are actually gonna build it like me these are the things you are gonn
   5) 30A ESC
   6) A transmitter and receiver (could come in a set) of your choice
   7) Servo tester(optional)
+
+I have made it pretty simple when it comes to printing and assembling the plane, so I hope it doesn't require much explanation.
+
+*Bonus- This plane can fly without a flight controller, but it all depends on the pilot. Nevertheless you will definitely enjoy flying the plane raw(trust me).*
+
+Hope your plane flies. Bye
