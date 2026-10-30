@@ -17,3 +17,5 @@ I have made it pretty simple when it comes to printing and assembling the plane,
 *Bonus- This plane can fly without a flight controller, but it all depends on the pilot. Nevertheless you will definitely enjoy flying the plane raw(trust me).*
 
 Hope your plane flies. Bye
+
+(btw, I didn't know what to put in the demo url text box, so I linked it to this, sorry.)
